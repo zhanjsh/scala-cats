@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bruno/Scala/Cats/chapter1/target/scala-2.13/chapter1_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintableSyntax.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/PrintableSyntax.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintableInstances$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/PrintableInstances$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Printable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Printable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintableInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/PrintableInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Printable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Printable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintableSyntax$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/PrintableSyntax$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintableSyntax$PrintableOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/PrintableSyntax$PrintableOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bruno/Scala/Cats/chapter1/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
